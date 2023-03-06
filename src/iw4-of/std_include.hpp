@@ -52,8 +52,6 @@
 
 #include <zlib.h>
 
-#include <tomcrypt.h>
-
 #pragma warning(pop)
 
 #pragma warning(disable : 4100)
